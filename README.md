@@ -1,5 +1,5 @@
 # AnimationDuplicator
-A simple programa capable of cloning a model animations under a different animation tag (very useful to start modeling alternate forms).
+A simple program capable of cloning a model animations under a different animation tag (very useful to start modeling alternate forms).
 It only accept models in MDL format (if your model is on MDX, you can easily convert using this tool: http://www.hiveworkshop.com/forums/tools-560/mdlx-converter-62991/).
 For more informations, acess the Help menu inside the program.
 
